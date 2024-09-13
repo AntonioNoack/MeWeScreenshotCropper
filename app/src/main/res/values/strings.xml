@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoCropping</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="save_image">Save Image</string>
+    <string name="the_image_that_you_chose">The image that you chose</string>
+    <string name="saved">Saved!</string>
+</resources>
